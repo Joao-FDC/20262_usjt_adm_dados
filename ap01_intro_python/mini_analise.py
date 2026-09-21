@@ -19,9 +19,6 @@ print(f"Ticket Médio: R${df['valor'].mean():.2f}")
 
 df = pd.read_csv("ap01_intro_python/clientes.csv")
 
-
-
-
 total_cidade = df.groupby("cidade")["valor"].sum()
 print(total_cidade)
 total_cidade.sort_values().plot(kind="barh")
