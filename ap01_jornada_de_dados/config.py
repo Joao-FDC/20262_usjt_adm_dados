@@ -27,3 +27,4 @@ def moeda(valor):
 if __name__ == "__main__":
     preparar_pastas()
     print("Pastas criadas em", DADOS)
+Path(__file__).parent

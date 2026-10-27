@@ -1,0 +1,16 @@
+aula 05/10
+
+jornada de dados
+
+zona de pouso = onde os dados entram
+
+para clonar o git do professor: entre no perfil, pegue o https do projeto referente dentro de code
+depois abra o uma pasta vazia no vsc e no terminal coloque git clone link . 
+
+existe dois tipos de execução
+
+glob#leitura byte a byte
+
+
+
+até a pagina 11
